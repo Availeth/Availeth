@@ -1,5 +1,5 @@
-# 👋 Hi, I’m @Availeth
-* I’m a Frontend Developer
+# 👋 Hi, I’m Availeth
+* I’m a Software Developer
 * I’m looking to collaborate on Mindblowing projects.
 * How to reach me 📫  avalethoyebade@gmail.com
 
