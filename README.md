@@ -1,4 +1,4 @@
-![👋 Hey, my name is Availeth Oyebade](https://res.cloudinary.com/dhrqc6n2o/image/upload/v1728495337/avslayer-github_-banner_1_zoazpt.png)
+![👋 Hey, my name is Availeth Oyebade](https://res.cloudinary.com/dhrqc6n2o/image/upload/c_crop,ar_16:9,e_improve,e_sharpen/v1728506037/Default_Create_a_dramatic_banner_with_a_predominantly_blue_and_0_heglsg.jpg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Availeth&label=Profile%20views&color=0e75b6&style=flat)
 
