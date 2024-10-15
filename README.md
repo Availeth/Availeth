@@ -22,7 +22,7 @@
 - 💼 I'm currently working on: **💻 Developing a new Fertility Support Database webapp using Next.js and Nest.js**
 - 🌱 I'm currently learning: **📚 Exploring Python**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
-- ⚡ Fun fact: **🎢 I regularly debug a issues in the shower!**
+- ⚡ Fun fact: **🚿 I regularly debug a issues in the shower!**
 - 📂 Portfolio: **<a href="https://www.availeth.dev/" target="_blank">https://www.availeth.dev/</a>**
 
  **<h3 align="left">Skills</h3>**
